@@ -1,2 +1,2 @@
-# checkbox-working-like-radio
+# controllable-checkbox-component
 Created with CodeSandbox
